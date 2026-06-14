@@ -70,9 +70,3 @@ Travel agency receives offer files from contractors in various locales (`pl_PL`,
   - `Towary.txt` – in the project root (parent of each module)
   - `~/Programmers.tsv`, `~/customers.txt`, `~/Test.java`, `~/LamComFile.txt` – in `{user.home}`
   - `~/UTP6dir/` – directory tree with `.txt` files for the Futil task
-
----
-
-## Author
-
-**KM · S34561** · PJATK
